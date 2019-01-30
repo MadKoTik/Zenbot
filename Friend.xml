@@ -1,5 +1,5 @@
 <context>
-  <input pattern="* Открыть дискорд *">
+  <input pattern="* (Открыть дискорд*|дискорт*|дискорд*) *">
     <output value="Открой Discord"/>
   </input>
 </context>
